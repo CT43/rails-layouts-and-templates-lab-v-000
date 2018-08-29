@@ -2,5 +2,6 @@ class StoreAdminControllerController < ApplicationController
   layout "admin"
 
   def home
-  end 
+    render :layout => "admin"
+  end
 end
