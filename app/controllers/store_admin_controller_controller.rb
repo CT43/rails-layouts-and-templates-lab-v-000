@@ -10,6 +10,6 @@ class StoreAdminControllerController < ApplicationController
   end
 
   def invoice
-    
-  end 
+    "<h1> Your Invoice</h1>"
+  end
 end
