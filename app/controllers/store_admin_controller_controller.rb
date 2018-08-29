@@ -5,7 +5,7 @@ class StoreAdminControllerController < ApplicationController
     render :layout => "admin"
   end
 
-  def orders 
-    render :layout => "admin"
+  def orders
+    render :layout => "order_administration"
   end
 end
