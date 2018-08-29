@@ -1,3 +1,3 @@
 class StoreAdminControllerController < ApplicationController
-  layout => :admin
+  layout "admin"
 end
