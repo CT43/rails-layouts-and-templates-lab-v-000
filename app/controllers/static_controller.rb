@@ -1,7 +1,7 @@
 class StaticController < ActionController::Base
 
-  def home 
+  def home
 
-  end 
+  end
 
-end 
+end
